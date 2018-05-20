@@ -1,0 +1,9 @@
+下面是一些进阶的论文，可以帮助你更加深刻的了解GAN背后的原理和局限：
+Original DCGAN paper : https://arxiv.org/pdf/1511.06434.pdf
+GAN Training hacks: https://github.com/soumith/ganhacks
+GAN stability: http://www.araya.org/archives/1183
+MNIST GAN with Keras: https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
+DCGAN : https://github.com/yihui-he/GAN-MNIST, https://github.com/carpedm20/DCGAN-tensorflow
+DiscoGAN, Discover Cross-Domain Relations with Generative Adversarial Networks: https://github.com/carpedm20/DiscoGAN-pytorch
+For Advances Learners: https://blog.openai.com/generative-models/
+http://bamos.github.io/2016/08/09/deep-completion/
